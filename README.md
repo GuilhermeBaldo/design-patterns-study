@@ -16,7 +16,7 @@ This repository contains implementations of classic design patterns applied to A
 | | Adapter | ⏳ Pending | Create adapters for different data source APIs (CSV, SQL, APIs) to provide a unified interface for data loading | Converting interfaces and making incompatible interfaces work together |
 | | Bridge | ⏳ Pending | Develop a flexible system for implementing different optimization algorithms across various model architectures | Separating abstraction from implementation |
 | | Composite | ⏳ Pending | Build a pipeline system that can handle both simple transformations and complex nested preprocessing steps | Working with tree structures and part-whole hierarchies |
-| | Decorator | ⏳ Pending | Create model performance monitoring decorators that add logging, timing, and memory profiling capabilities | Adding responsibilities to objects dynamically |
+| | Decorator | ⏳ Pending | Create model pe_rformance monitoring decorators that add logging, timing, and memory profiling capabilities | Adding responsibilities to objects dynamically |
 | | Facade | ⏳ Pending | Implement a simplified interface for a complex ML training system that handles data loading, preprocessing, training, and evaluation | Simplifying complex subsystems |
 | | Flyweight | ⏳ Pending | Optimize memory usage when dealing with large-scale feature embeddings in NLP tasks | Managing shared state efficiently |
 | | Proxy | ⏳ Pending | Create a caching proxy for expensive model predictions or data preprocessing operations | Controlling access to objects |
